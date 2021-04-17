@@ -1,3 +1,4 @@
 import config as Config
-#テスト
+#テスト１
+#テスト２
 #send_message("テスト送信")
