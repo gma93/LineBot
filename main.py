@@ -1,5 +1,3 @@
 import config as Config
-
-#GitHubテスト
-
-send_message("テスト送信")
+#テスト
+#send_message("テスト送信")
